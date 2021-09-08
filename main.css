@@ -660,21 +660,6 @@ footer a {
     margin-bottom: 1.45rem;
     text-align: center;
   }
-
-  .nav-list {
-    width: 32rem;
-    height: 100vh;
-    background-color: #222222;
-    position: fixed;
-    top: 0;
-    right: -26rem;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-self: start;
-    z-index: 998;
-    transition: all 650ms ease-in-out;
-  }
 }
 
 .section {
